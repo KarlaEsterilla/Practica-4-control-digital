@@ -1,5 +1,7 @@
 # Practica-4-control-digital
 **Karla Victoria Barrera Saavedra  Pablo Isaac Cárdenas Regalado**
+
+
 Práctica 4 de control digital, Implementar una secuencia de encendido de LEDs utilizando un microcontrolador
 
 Esta práctica, consta de 7 archivos:
